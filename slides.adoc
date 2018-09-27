@@ -1,0 +1,44 @@
+= BigContent
+Abel Salgado Romero (@abelsromero)
+:icons: font
+ifndef::imagesdir[:imagesdir: images]
+ifndef::sourcedir[:sourcedir: ../../main/java]
+
+== What customers thing of us...
+
+image::intro.png[]
+
+== What customers thing of us...
+
+* Cloud native
+* Business focused
+* Quick to response (from `dev` to `pro` in in hours)
+* We are cheaper that other options
+
+== What we thing of ourselves...
+
+image::team_original.jpg[background]
+
+*_Expert team of highly trained professionals!!!_*
+
+[%step]
+* *Dani*: DevOps master
+* *Marc*: Second in command
+* *Oscar + Hector*: software crafstmen (...in progress)
+* *David*: Azure wizard
+* *Abel*: _Benevolent dictator_
+//* *Ernesto*: _Honorable mention_
+
+[transition=zoom]
+[%notitle]
+[background-video="images/code_history.mp4",background-video-loop=false,background-video-muted=true]
+== What we actually do...
+
+* *Code as fast as we can*
+* *Don't cause to many fuck-ups -> aim for 0 issues!*
+* *Above all, we pretend we know what we are doing :)*
+
+== Questions?
+
+image::questions.jpg[]
+image::everis_logo.png[]
